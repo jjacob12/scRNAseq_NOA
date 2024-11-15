@@ -6,7 +6,7 @@ This repository contains the analysis of seven single-cell RNA sequencing (scRNA
 - Tumour spheroid
 - Co-culture of tumour spheroid with non-malignant cerebellar organoid
 - Control non-malignant cerebellar organoid
-- 
+
 The purpose of this analysis is to uncover the cellular and molecular dynamics of SHH-MB under different growth conditions, in particular the effect of the tumour micro-environment, which we simulated using cerebellar organoids. This study contributes to our understanding of medulloblastoma pathobiology and potential therapeutic targets.
 
 Contents
