@@ -2,10 +2,11 @@ Overview
 
 This repository contains the analysis of seven single-cell RNA sequencing (scRNA-seq) in vitro samples of sonic hedgehog medulloblastoma (SHH-MB) cells and non-malignant human iPSC-derived cerebellar organoids. These samples represent a comparative study involving two distinct SHH-MB cell lines: DAOY and ONS-76. For each cell line, the cells were grown under various conditions:
 
-Monolayer
-Tumour spheroid
-Co-culture of tumour spheroid with non-malignant cerebellar organoid
-Control non-malignant cerebellar organoid
+- Monolayer
+- Tumour spheroid
+- Co-culture of tumour spheroid with non-malignant cerebellar organoid
+- Control non-malignant cerebellar organoid
+- 
 The purpose of this analysis is to uncover the cellular and molecular dynamics of SHH-MB under different growth conditions, in particular the effect of the tumour micro-environment, which we simulated using cerebellar organoids. This study contributes to our understanding of medulloblastoma pathobiology and potential therapeutic targets.
 
 Contents
