@@ -549,6 +549,7 @@ SECTION END
 
 ##########################################################################################################
 ***ClusterMap to compare the clusters of CBO, DAOY-CBO and ONS76-CBO***
+ClusterMap workflow shown here for illustration purposes only as it might be useful for other users. ClusterMap was not used in the published article.
 To find matched clusters in the control, non-malignant organoid and in assembloids we performed hierarchical clustering using ClusterMap. using ClusterMap helped to identify the malignant clusters as they had no counterpart in the control organoid. The output was visualised as a Circos plot (but other outputs also generated e.g. tSNE plots)
 Combine the CBO and DAOY-CBO samples as shown in the example of https://xgaoo.github.io/ClusterMap/pre_analysis/pre_analysis.html
 
