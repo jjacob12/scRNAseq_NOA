@@ -30,4 +30,8 @@ scRNA-seq data have been deposited in the National Centre for Biotechnology Info
 
 If you use the contents of this repository in your research, please cite as follows:
 
-Analysis conducted by John Jacob, University of Oxford. Further citation details pending publication.
+Analysis conducted by John Jacob, University of Oxford. Please cite this repository as:
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14173205.svg)](https://doi.org/10.5281/zenodo.14173205).
+
+This DOI links to the Zenodo archive for this repository.
